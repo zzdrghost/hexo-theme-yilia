@@ -53,7 +53,7 @@ weixin:
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: https://assets-cdn.github.com/favicon.ico
 
 #你的头像url
 avatar: 'http://s.gravatar.com/avatar/5072efc1951a5b867b67ae9d35c09e27?s=200'
